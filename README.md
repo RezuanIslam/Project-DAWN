@@ -64,6 +64,7 @@ Through **DAWN**, we aim to revolutionize modern farming by making advanced tech
 - **Numpy**
 - **Ultralytics**
 - **CV2**
+- **Arduino**
 
 ---
 
